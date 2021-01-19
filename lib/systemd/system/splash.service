@@ -1,0 +1,17 @@
+
+[Unit]
+Description=Splash Video
+DefaultDependencies=no
+After=local-fs.target
+
+[Service]
+ExecStart=/usr/bin/omxplayer -b /boot/splash.mp4
+StandardInput=tty
+StandardOutput=tty
+
+[Install]
+WantedBy=sysinit.target
+
+
+
+
