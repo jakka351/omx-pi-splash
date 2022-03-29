@@ -7,3 +7,7 @@ easy peasy service to play a video file in place of the default Raspberry Pi OS 
   `sudo ./install.sh`   
   `sudo reboot`    
   
+  
+  ![](https://www.raspberrypi.org/app/uploads/2017/06/Powered-by-Raspberry-Pi-Logo_Outline-Colour-Screen-500x153.png)  
+***
+
